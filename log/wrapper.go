@@ -3,8 +3,8 @@ package log
 import (
 	"context"
 
-	internallog "github.com/satriarrrrr/kit/internal/log"
-	"github.com/satriarrrrr/kit/pkg/ctxwrapper"
+	internallog "github.com/satriarrrrr/mykit/internal/log"
+	"github.com/satriarrrrr/mykit/pkg/ctxwrapper"
 )
 
 // Wrap wrap several data as a list of fields

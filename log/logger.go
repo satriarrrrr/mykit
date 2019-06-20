@@ -1,7 +1,7 @@
 package log
 
 import (
-	internallog "github.com/satriarrrrr/kit/internal/log"
+	internallog "github.com/satriarrrrr/mykit/internal/log"
 )
 
 type Logger interface {
